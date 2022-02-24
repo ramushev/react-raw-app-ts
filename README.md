@@ -3,7 +3,7 @@
 
 React-raw-app-ts is professional react boilerplate for building fast, robust, customizable, and adaptable web apps or sites.
 
-Boilerplate include:
+Boilerplate includes:
 - React 17
 - Webpack 5
 - Typescript
